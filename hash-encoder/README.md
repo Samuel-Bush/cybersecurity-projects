@@ -13,5 +13,5 @@ Python project to encode a file, linking to tampering detection and irreversibil
 * Importance of breaking down larger files when encoding.
 
 ## Potential next steps:
-Research and implement salt.
-Add baseline hashing data to compare with for changes.
+* Research and implement salt.
+* Add baseline hashing data to compare with for changes.
