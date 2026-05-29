@@ -8,10 +8,8 @@
 ## TCP Socket:
 * A TCP socket is used for attempting to connect to port.
 * Timeout is set to 1 second.
-* If the port is open, a connection will be established.
-		* Function returns True.
-* If the port is closed, a connection wont be established.
-	 * Function returns False.
+* If the port is open, a connection will be established: function returns True.
+* If the port is closed, a connection wont be established: function returns False.
 
 ## What I learnt:
 * Ports.
